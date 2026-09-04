@@ -4,7 +4,7 @@ API REST desenvolvida em **C# com .NET**, criada como projeto de estudo para pra
 
 O projeto tem como objetivo desenvolver uma base sobre **Controllers, Requests, Models, Enums e Use Cases**, além de trabalhar com operações CRUD e validações.
 
-> 🚧 Projeto desenvolvido para fins de aprendizado.
+> 🚧 Projeto em desenvolvimento
 
 ---
 
