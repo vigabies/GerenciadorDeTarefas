@@ -1,5 +1,5 @@
 ﻿namespace To.Do.Application.UseCases;
 
-public class TaskUseCase
+public class GetTaskByIdUseCase
 {
 }
