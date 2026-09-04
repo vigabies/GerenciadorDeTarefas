@@ -12,12 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ToDo.Application\ToDo.Application.csproj" />
-    <ProjectReference Include="..\ToDo.Communication\ToDo.Communication.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\ToDo.Application\To.Do.Application.csproj" />
+    <ProjectReference Include="..\ToDo.Communication\To.Do.Communication.csproj" />
   </ItemGroup>
 
 </Project>

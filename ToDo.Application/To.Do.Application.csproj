@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ToDo.Communication\ToDo.Communication.csproj" />
+    <ProjectReference Include="..\ToDo.Communication\To.Do.Communication.csproj" />
   </ItemGroup>
 
 </Project>

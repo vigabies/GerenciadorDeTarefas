@@ -1,5 +1,5 @@
 <Solution>
   <Project Path="GerenciadorDeTarefas/To.Do.API.csproj" />
-  <Project Path="ToDo.Application/ToDo.Application.csproj" />
-  <Project Path="ToDo.Communication/ToDo.Communication.csproj" />
+  <Project Path="ToDo.Application/To.Do.Application.csproj" />
+  <Project Path="ToDo.Communication/To.Do.Communication.csproj" />
 </Solution>
