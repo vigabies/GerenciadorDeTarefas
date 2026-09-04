@@ -1,4 +1,4 @@
-# 📝 Gerenciador de Tarefas — To-Do API
+# 📝 Gerenciador de Tarefas
 
 API REST desenvolvida em **C# com .NET**, criada como projeto de estudo para praticar a construção e organização de uma API.
 
